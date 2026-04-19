@@ -1,5 +1,5 @@
 # NumpadEmu
-Little numpad emulator originally made for myself to use numpad buttons on laptops and keyboards without numpad. Made for win11 x64
+Little numpad emulator originally made for myself to use numpad buttons on laptops and keyboards without numpad. Made for win11 x64. Be warned that this is mostly AI-created, use at your own risk!
 
 How to use:
 "Pause Break" — turn Numpad on/off
